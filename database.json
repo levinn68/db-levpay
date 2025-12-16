@@ -685,10 +685,12 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-16T16:35:29.963Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "lastUpdateAt": "2025-12-16T16:37:57.790Z",
+      "note": "cancelled"
     }
   }
 }
