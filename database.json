@@ -18,13 +18,7 @@
       "percent": 5,
       "maxRp": 2000,
       "used": {},
-      "reserved": {
-        "9f9cf0c3f9f86221a2c1c2fd7678af33a6f2f8d8576702992933956ae22b5eb4": {
-          "token": "59f10ee21f7ad8e5d353",
-          "month": "202512",
-          "expiresAt": "2025-12-16T14:42:07.465Z"
-        }
-      },
+      "reserved": {},
       "updatedAt": "2025-12-16T11:57:05.151Z",
       "name": "LEVPAY VIP",
       "unlimited": {
@@ -273,10 +267,12 @@
         }
       ],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-16T14:36:07.810Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "lastUpdateAt": "2025-12-16T14:41:07.931Z",
+      "note": "auto-expired"
     },
     "LEVPAY-94008": {
       "idTransaksi": "LEVPAY-94008",
