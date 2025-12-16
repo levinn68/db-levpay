@@ -651,10 +651,12 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-16T16:13:40.978Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "lastUpdateAt": "2025-12-16T16:18:41.120Z",
+      "note": "auto-expired"
     }
   }
 }
