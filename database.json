@@ -33,6 +33,19 @@
       "createdAt": "2025-12-16T07:18:11.317Z",
       "paidAt": null,
       "paidVia": null
+    },
+    "LEVPAY-24208": {
+      "idTransaksi": "LEVPAY-24208",
+      "deviceKey": "fe809172f28686548b0a219d5aa4d57158941009bfbe57b21abf4c9b44df2ab9",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "applied": [],
+      "status": "pending",
+      "createdAt": "2025-12-16T07:35:22.409Z",
+      "paidAt": null,
+      "paidVia": null
     }
   }
 }
