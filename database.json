@@ -18,7 +18,13 @@
       "percent": 5,
       "maxRp": 2000,
       "used": {},
-      "reserved": {},
+      "reserved": {
+        "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917": {
+          "token": "a5c0decbd3d71813ae0a",
+          "month": "202512",
+          "expiresAt": "2025-12-16T14:53:11.840Z"
+        }
+      },
       "updatedAt": "2025-12-16T11:57:05.151Z",
       "name": "LEVPAY VIP",
       "unlimited": {
@@ -338,6 +344,37 @@
       "paidVia": null,
       "lastUpdateAt": "2025-12-16T14:46:48.472Z",
       "note": "cancelled"
+    },
+    "LEVPAY-34751": {
+      "idTransaksi": "LEVPAY-34751",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 1000,
+      "amountFinal": 950,
+      "discountRp": 50,
+      "applied": [
+        {
+          "type": "monthly",
+          "name": "LEVPAY VIP",
+          "percent": 5,
+          "maxRp": 2000
+        }
+      ],
+      "reservations": [
+        {
+          "type": "monthly",
+          "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+          "token": "a5c0decbd3d71813ae0a",
+          "month": "202512",
+          "expiresAt": "2025-12-16T14:53:11.840Z",
+          "discountRp": 50
+        }
+      ],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-16T14:47:12.075Z",
+      "paidAt": null,
+      "paidVia": null
     }
   }
 }
