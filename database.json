@@ -834,11 +834,13 @@
       "discountRp": 0,
       "applied": [],
       "reservations": [],
-      "discountCommitted": false,
-      "status": "pending",
+      "discountCommitted": true,
+      "status": "paid",
       "createdAt": "2025-12-16T17:46:05.111Z",
-      "paidAt": null,
-      "paidVia": null
+      "paidAt": "2025-12-16T17:46:39.784Z",
+      "paidVia": "GOPAY",
+      "lastUpdateAt": "2025-12-16T17:46:39.979Z",
+      "note": "auto-detected"
     }
   }
 }
