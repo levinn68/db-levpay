@@ -18,13 +18,7 @@
       "percent": 5,
       "maxRp": 2000,
       "used": {},
-      "reserved": {
-        "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917": {
-          "token": "a5c0decbd3d71813ae0a",
-          "month": "202512",
-          "expiresAt": "2025-12-16T14:53:11.840Z"
-        }
-      },
+      "reserved": {},
       "updatedAt": "2025-12-16T11:57:05.151Z",
       "name": "LEVPAY VIP",
       "unlimited": {
@@ -371,10 +365,12 @@
         }
       ],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-16T14:47:12.075Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "lastUpdateAt": "2025-12-16T14:47:15.803Z",
+      "note": "cancelled"
     }
   }
 }
