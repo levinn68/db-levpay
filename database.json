@@ -785,10 +785,12 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-16T17:03:16.084Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "lastUpdateAt": "2025-12-16T17:08:16.231Z",
+      "note": "auto-expired"
     },
     "LEVPAY-23094": {
       "idTransaksi": "LEVPAY-23094",
