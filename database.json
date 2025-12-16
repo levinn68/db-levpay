@@ -636,6 +636,21 @@
       "createdAt": "2025-12-16T16:13:32.599Z",
       "paidAt": null,
       "paidVia": null
+    },
+    "LEVPAY-64715": {
+      "idTransaksi": "LEVPAY-64715",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-16T16:13:40.978Z",
+      "paidAt": null,
+      "paidVia": null
     }
   }
 }
