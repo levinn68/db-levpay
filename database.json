@@ -284,12 +284,12 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "expired",
+      "status": "cancelled",
       "createdAt": "2025-12-16T14:36:48.966Z",
       "paidAt": null,
       "paidVia": null,
-      "lastUpdateAt": "2025-12-16T14:41:49.318Z",
-      "note": "auto-expired"
+      "lastUpdateAt": "2025-12-16T14:42:17.148Z",
+      "note": "cancelled"
     }
   }
 }
