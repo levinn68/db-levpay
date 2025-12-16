@@ -290,6 +290,21 @@
       "paidVia": null,
       "lastUpdateAt": "2025-12-16T14:42:17.148Z",
       "note": "cancelled"
+    },
+    "LEVPAY-53610": {
+      "idTransaksi": "LEVPAY-53610",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-16T14:42:24.817Z",
+      "paidAt": null,
+      "paidVia": null
     }
   }
 }
