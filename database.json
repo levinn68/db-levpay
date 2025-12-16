@@ -606,6 +606,21 @@
       "paidVia": null,
       "lastUpdateAt": "2025-12-16T16:09:45.515Z",
       "note": "auto-expired"
+    },
+    "LEVPAY-31561": {
+      "idTransaksi": "LEVPAY-31561",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-16T16:13:06.462Z",
+      "paidAt": null,
+      "paidVia": null
     }
   }
 }
