@@ -284,10 +284,12 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-16T14:36:48.966Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "lastUpdateAt": "2025-12-16T14:41:49.318Z",
+      "note": "auto-expired"
     }
   }
 }
