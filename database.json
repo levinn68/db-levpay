@@ -1831,10 +1831,16 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": "2025-12-17T09:30:03.799Z",
-      "paidAt": null,
-      "paidVia": null
+      "paidAt": "2025-12-17T09:30:11.286Z",
+      "paidVia": "GOPAY",
+      "deviceId": null,
+      "note": "auto-detected(noPaidAt)",
+      "voucher": null,
+      "reference": "REF1765963803712-45758",
+      "lastUpdateAt": "2025-12-17T09:30:11.650Z",
+      "updatedAt": "2025-12-17T09:30:11.650Z"
     },
     "LEVPAY-61187": {
       "idTransaksi": "LEVPAY-61187",
