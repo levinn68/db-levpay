@@ -1162,17 +1162,17 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-17T05:55:20.852Z",
       "paidAt": null,
       "paidVia": null,
       "reference": "REF1765950920852",
       "deviceId": null,
       "expiredAt": "2025-12-17T06:00:20.852Z",
-      "note": null,
+      "note": "cancelled",
       "voucher": null,
-      "lastUpdateAt": "2025-12-17T05:55:20.852Z",
-      "updatedAt": "2025-12-17T05:55:43.948Z"
+      "lastUpdateAt": "2025-12-17T05:55:46.582Z",
+      "updatedAt": "2025-12-17T05:55:46.736Z"
     }
   },
   "txByDevice": {}
