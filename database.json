@@ -2050,10 +2050,31 @@
       "reference": "REF1765988602800-65323",
       "lastUpdateAt": "2025-12-17T16:23:59.404Z",
       "updatedAt": "2025-12-17T16:23:59.404Z"
+    },
+    "LEVPAY-70740": {
+      "idTransaksi": "LEVPAY-70740",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "status": "paid",
+      "paidAt": "2025-12-17T16:41:26.547Z",
+      "paidVia": "OVO",
+      "payerName": null,
+      "buyerRef": "NOBU / VINNZZ",
+      "brandName": "OVO",
+      "note": "auto-detected(noPaidAt)",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "voucher": null,
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1765989646812-92784",
+      "lastUpdateAt": "2025-12-17T16:41:27.223Z",
+      "updatedAt": "2025-12-17T16:41:27.224Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-70740",
       "LEVPAY-49508"
     ]
   }
