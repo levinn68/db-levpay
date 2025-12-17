@@ -1414,47 +1414,22 @@
       "idTransaksi": "LEVPAY-33600",
       "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 10000,
+      "amountOriginal": 8550,
       "amountFinal": 8550,
-      "discountRp": 1450,
-      "applied": [
-        {
-          "type": "voucher",
-          "code": "KING",
-          "name": "KING",
-          "percent": 10,
-          "maxRp": 5000,
-          "expiresAt": null
-        },
-        {
-          "type": "monthly",
-          "name": "LEVPAY VIP",
-          "percent": 5,
-          "maxRp": 2000
-        }
-      ],
-      "reservations": [
-        {
-          "type": "voucher",
-          "code": "KING",
-          "token": "18d4a1d323f50c8741d5",
-          "expiresAt": "2025-12-17T07:10:34.793Z",
-          "discountRp": 1000
-        },
-        {
-          "type": "monthly",
-          "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
-          "token": "8c63dbdfc6b36a40c082",
-          "month": "202512",
-          "expiresAt": "2025-12-17T07:10:34.794Z",
-          "discountRp": 450
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-17T07:04:35.504Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "note": "cancelled",
+      "voucher": null,
+      "reference": "REF1765955075346-14978",
+      "lastUpdateAt": "2025-12-17T07:06:33.343Z",
+      "updatedAt": "2025-12-17T07:06:33.343Z"
     }
   },
   "txByDevice": {}
