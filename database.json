@@ -919,11 +919,13 @@
       "discountRp": 0,
       "applied": [],
       "reservations": [],
-      "discountCommitted": false,
-      "status": "pending",
+      "discountCommitted": true,
+      "status": "paid",
       "createdAt": "2025-12-17T03:35:34.372Z",
-      "paidAt": null,
-      "paidVia": null
+      "paidAt": "2025-12-17T03:36:19.577Z",
+      "paidVia": "GOPAY",
+      "lastUpdateAt": "2025-12-17T03:36:19.912Z",
+      "note": "auto-detected"
     }
   }
 }
