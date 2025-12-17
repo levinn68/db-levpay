@@ -1516,10 +1516,16 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-17T07:15:28.479Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "note": "cancelled",
+      "voucher": null,
+      "reference": "REF1765955728323-16974",
+      "lastUpdateAt": "2025-12-17T07:15:33.377Z",
+      "updatedAt": "2025-12-17T07:15:33.377Z"
     }
   },
   "txByDevice": {}
