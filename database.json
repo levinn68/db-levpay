@@ -1229,10 +1229,17 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
-      "createdAt": "2025-12-17T06:16:51.674Z",
-      "paidAt": null,
-      "paidVia": null
+      "status": "paid",
+      "createdAt": "2025-12-17T06:16:51.504Z",
+      "paidAt": "2025-12-17T06:17:37.580Z",
+      "paidVia": "GOPAY",
+      "deviceId": null,
+      "note": "auto-detected",
+      "voucher": null,
+      "expiredAt": "2025-12-17T06:21:51.504Z",
+      "reference": "REF1765952211504",
+      "lastUpdateAt": "2025-12-17T06:17:38.331Z",
+      "updatedAt": "2025-12-17T06:17:38.331Z"
     }
   },
   "txByDevice": {}
