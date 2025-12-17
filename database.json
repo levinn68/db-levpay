@@ -1042,17 +1042,17 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-17T05:39:30.166Z",
       "paidAt": null,
       "paidVia": null,
       "reference": "REF1765949970166",
       "deviceId": null,
       "expiredAt": "2025-12-17T05:44:30.167Z",
-      "note": null,
+      "note": "auto-expired",
       "voucher": null,
-      "lastUpdateAt": "2025-12-17T05:39:30.166Z",
-      "updatedAt": "2025-12-17T05:44:28.180Z"
+      "lastUpdateAt": "2025-12-17T05:44:30.208Z",
+      "updatedAt": "2025-12-17T05:44:30.433Z"
     }
   },
   "txByDevice": {}
