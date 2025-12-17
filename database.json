@@ -1936,10 +1936,16 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": "2025-12-17T11:43:57.507Z",
-      "paidAt": null,
-      "paidVia": null
+      "paidAt": "2025-12-17T11:45:10.325Z",
+      "paidVia": "DANA",
+      "deviceId": null,
+      "note": "auto-detected(noPaidAt)",
+      "voucher": null,
+      "reference": "REF1765971837399-82273",
+      "lastUpdateAt": "2025-12-17T11:45:11.093Z",
+      "updatedAt": "2025-12-17T11:45:11.093Z"
     }
   },
   "txByDevice": {}
