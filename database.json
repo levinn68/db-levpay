@@ -2020,10 +2020,16 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": "2025-12-17T15:36:20.540Z",
-      "paidAt": null,
-      "paidVia": null
+      "paidAt": "2025-12-17T15:36:53.926Z",
+      "paidVia": "OVO",
+      "deviceId": null,
+      "note": "auto-detected(noPaidAt)",
+      "voucher": null,
+      "reference": "REF1765985780448-90109",
+      "lastUpdateAt": "2025-12-17T15:36:54.670Z",
+      "updatedAt": "2025-12-17T15:36:54.671Z"
     }
   },
   "txByDevice": {}
