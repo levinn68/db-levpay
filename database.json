@@ -909,6 +909,21 @@
       "paidVia": "DANA",
       "lastUpdateAt": "2025-12-17T03:23:55.444Z",
       "note": "auto-detected"
+    },
+    "LEVPAY-65342": {
+      "idTransaksi": "LEVPAY-65342",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-17T03:35:34.372Z",
+      "paidAt": null,
+      "paidVia": null
     }
   }
 }
