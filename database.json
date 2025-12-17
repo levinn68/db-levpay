@@ -1718,10 +1718,16 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-17T07:43:04.094Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "note": "cancelled",
+      "voucher": null,
+      "reference": "REF1765957383984-55559",
+      "lastUpdateAt": "2025-12-17T07:43:11.027Z",
+      "updatedAt": "2025-12-17T07:43:11.027Z"
     }
   },
   "txByDevice": {}
