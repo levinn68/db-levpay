@@ -1134,32 +1134,23 @@
       "idTransaksi": "LEVPAY-21634",
       "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 10000,
+      "amountOriginal": 9500,
       "amountFinal": 9500,
-      "discountRp": 500,
-      "applied": [
-        {
-          "type": "monthly",
-          "name": "LEVPAY VIP",
-          "percent": 5,
-          "maxRp": 2000
-        }
-      ],
-      "reservations": [
-        {
-          "type": "monthly",
-          "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
-          "token": "34d90265aaf2e5d9d546",
-          "month": "202512",
-          "expiresAt": "2025-12-17T06:00:55.214Z",
-          "discountRp": 500
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
       "discountCommitted": false,
       "status": "pending",
-      "createdAt": "2025-12-17T05:54:55.484Z",
+      "createdAt": "2025-12-17T05:54:55.357Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "reference": "REF1765950895357",
+      "deviceId": null,
+      "expiredAt": "2025-12-17T05:59:55.357Z",
+      "note": null,
+      "voucher": null,
+      "lastUpdateAt": "2025-12-17T05:54:55.357Z",
+      "updatedAt": "2025-12-17T05:54:57.946Z"
     }
   },
   "txByDevice": {}
