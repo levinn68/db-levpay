@@ -1370,17 +1370,10 @@
       "idTransaksi": "LEVPAY-16799",
       "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 1000,
+      "amountOriginal": 950,
       "amountFinal": 950,
-      "discountRp": 50,
-      "applied": [
-        {
-          "type": "monthly",
-          "name": "LEVPAY VIP",
-          "percent": 5,
-          "maxRp": 2000
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
       "reservations": [
         {
           "type": "monthly",
@@ -1392,10 +1385,15 @@
         }
       ],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-17T06:48:16.005Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "lastUpdateAt": "2025-12-17T06:53:16.982Z",
+      "updatedAt": "2025-12-17T06:53:16.982Z"
     }
   },
   "txByDevice": {}
