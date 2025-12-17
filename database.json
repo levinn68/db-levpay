@@ -1810,10 +1810,16 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": "2025-12-17T09:28:44.445Z",
-      "paidAt": null,
-      "paidVia": null
+      "paidAt": "2025-12-17T09:29:18.432Z",
+      "paidVia": "GOPAY",
+      "deviceId": null,
+      "note": "auto-detected(noPaidAt)",
+      "voucher": null,
+      "reference": "REF1765963724099-72522",
+      "lastUpdateAt": "2025-12-17T09:29:19.091Z",
+      "updatedAt": "2025-12-17T09:29:19.091Z"
     }
   },
   "txByDevice": {}
