@@ -1036,47 +1036,24 @@
       "idTransaksi": "LEVPAY-00811",
       "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 2000,
+      "amountOriginal": 1710,
       "amountFinal": 1710,
-      "discountRp": 290,
-      "applied": [
-        {
-          "type": "voucher",
-          "code": "HEMAT10",
-          "name": "HEMAT 10%",
-          "percent": 10,
-          "maxRp": 5000,
-          "expiresAt": "2026-12-31T23:59:59.000Z"
-        },
-        {
-          "type": "monthly",
-          "name": "LEVPAY VIP",
-          "percent": 5,
-          "maxRp": 2000
-        }
-      ],
-      "reservations": [
-        {
-          "type": "voucher",
-          "code": "HEMAT10",
-          "token": "ee14e9635c48295dfbf8",
-          "expiresAt": "2025-12-17T05:45:30.018Z",
-          "discountRp": 200
-        },
-        {
-          "type": "monthly",
-          "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
-          "token": "76000d071fc7bc55144f",
-          "month": "202512",
-          "expiresAt": "2025-12-17T05:45:30.018Z",
-          "discountRp": 90
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
       "discountCommitted": false,
       "status": "pending",
-      "createdAt": "2025-12-17T05:39:30.475Z",
+      "createdAt": "2025-12-17T05:39:30.166Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "reference": "REF1765949970166",
+      "deviceId": null,
+      "expiredAt": "2025-12-17T05:44:30.167Z",
+      "note": null,
+      "voucher": null,
+      "lastUpdateAt": "2025-12-17T05:39:30.166Z",
+      "updatedAt": "2025-12-17T05:39:31.031Z"
     }
-  }
+  },
+  "txByDevice": {}
 }
