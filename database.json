@@ -1077,10 +1077,17 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
-      "createdAt": "2025-12-17T05:53:45.456Z",
-      "paidAt": null,
-      "paidVia": null
+      "status": "paid",
+      "createdAt": "2025-12-17T05:53:45.377Z",
+      "paidAt": "2025-12-17T05:53:47.281Z",
+      "paidVia": "DANA",
+      "reference": "REF1765950825376",
+      "deviceId": null,
+      "expiredAt": "2025-12-17T05:58:45.377Z",
+      "note": "auto-detected",
+      "voucher": null,
+      "lastUpdateAt": "2025-12-17T05:53:47.281Z",
+      "updatedAt": "2025-12-17T05:53:47.435Z"
     }
   },
   "txByDevice": {}
