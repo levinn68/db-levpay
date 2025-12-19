@@ -50,6 +50,18 @@
       "reserved": {
         "288bf16c050694f573b5": "2025-12-19T13:53:59.689Z"
       }
+    },
+    "TEST": {
+      "code": "TEST",
+      "name": "KINGLEV",
+      "enabled": true,
+      "percent": 90,
+      "maxRp": 0,
+      "expiresAt": "2026-12-31T23:59:59.000Z",
+      "uses": 0,
+      "maxUses": 100,
+      "note": "voucher custom 60%",
+      "updatedAt": "2025-12-19T13:59:53.699Z"
     }
   },
   "promo": {
