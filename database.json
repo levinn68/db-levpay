@@ -2701,10 +2701,19 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": "2025-12-19T14:11:35.764Z",
-      "paidAt": null,
-      "paidVia": null
+      "paidAt": "2025-12-19T14:12:07.186Z",
+      "paidVia": "DANA",
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": "NOBU / MA*******",
+      "brandName": "DANA",
+      "note": "auto-detected(noPaidAt)",
+      "voucher": null,
+      "reference": "REF1766153495659-43099",
+      "lastUpdateAt": "2025-12-19T14:12:07.916Z",
+      "updatedAt": "2025-12-19T14:12:07.916Z"
     }
   },
   "txByDevice": {
