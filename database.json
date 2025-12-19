@@ -2173,10 +2173,19 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-19T09:21:03.081Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "reference": "REF1766136062995-43625",
+      "lastUpdateAt": "2025-12-19T09:26:03.352Z",
+      "updatedAt": "2025-12-19T09:26:03.352Z"
     },
     "LEVPAY-72403": {
       "idTransaksi": "LEVPAY-72403",
