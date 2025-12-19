@@ -2245,10 +2245,19 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-19T09:29:17.057Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "reference": "REF1766136556967-04396",
+      "lastUpdateAt": "2025-12-19T09:34:17.712Z",
+      "updatedAt": "2025-12-19T09:34:17.712Z"
     }
   },
   "txByDevice": {
