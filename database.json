@@ -22,7 +22,10 @@
       "uses": 0,
       "maxUses": 100,
       "note": "Voucher custom test",
-      "updatedAt": "2025-12-19T13:41:34.981Z"
+      "updatedAt": "2025-12-19T13:41:34.981Z",
+      "reserved": {
+        "83038d443423ba5675ae": "2025-12-19T13:47:53.834Z"
+      }
     },
     "KING": {
       "code": "KING",
@@ -2606,6 +2609,38 @@
       "reference": "REF1766151447768-86381",
       "lastUpdateAt": "2025-12-19T13:37:33.794Z",
       "updatedAt": "2025-12-19T13:37:33.794Z"
+    },
+    "LEVPAY-73096": {
+      "idTransaksi": "LEVPAY-73096",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 2000,
+      "amountFinal": 1800,
+      "discountRp": 200,
+      "applied": [
+        {
+          "type": "voucher",
+          "code": "HEMAT10",
+          "name": "HEMAT 10%",
+          "percent": 10,
+          "maxRp": 5000,
+          "expiresAt": "2026-12-31T23:59:59.000Z"
+        }
+      ],
+      "reservations": [
+        {
+          "type": "voucher",
+          "code": "HEMAT10",
+          "token": "83038d443423ba5675ae",
+          "expiresAt": "2025-12-19T13:47:53.834Z",
+          "discountRp": 200
+        }
+      ],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-19T13:41:54.127Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
