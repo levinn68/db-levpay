@@ -15,14 +15,14 @@
     "HEMAT10": {
       "code": "HEMAT10",
       "name": "HEMAT 10%",
-      "enabled": false,
+      "enabled": true,
       "percent": 10,
       "maxRp": 5000,
       "expiresAt": "2026-12-31T23:59:59.000Z",
       "uses": 0,
       "maxUses": 100,
       "note": "Voucher custom test",
-      "updatedAt": "2025-12-17T08:39:14.559Z"
+      "updatedAt": "2025-12-19T13:41:34.981Z"
     },
     "KING": {
       "code": "KING",
