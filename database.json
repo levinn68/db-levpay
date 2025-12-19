@@ -41,15 +41,15 @@
     },
     "KINGLEV": {
       "code": "KINGLEV",
-      "name": "KINGLEV",
+      "name": "KINGLEV 60%",
       "enabled": true,
-      "percent": 0,
+      "percent": 60,
       "maxRp": 0,
-      "expiresAt": null,
+      "expiresAt": "2026-12-31T23:59:59.000Z",
       "uses": 0,
-      "maxUses": null,
-      "note": null,
-      "updatedAt": "2025-12-19T13:43:47.878Z"
+      "maxUses": 100,
+      "note": "voucher custom 60%",
+      "updatedAt": "2025-12-19T13:47:12.457Z"
     }
   },
   "promo": {
