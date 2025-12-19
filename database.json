@@ -2221,10 +2221,19 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-19T09:27:24.013Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "voucher": null,
+      "reference": "REF1766136443915-77873",
+      "lastUpdateAt": "2025-12-19T09:27:34.931Z",
+      "updatedAt": "2025-12-19T09:27:34.932Z"
     }
   },
   "txByDevice": {
