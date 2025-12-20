@@ -14,6 +14,18 @@
       "reserved": {
         "fde846ca3d924f1103bd": "2025-12-20T09:56:17.139Z"
       }
+    },
+    "VIPL": {
+      "code": "VIPL",
+      "name": "TEST",
+      "enabled": false,
+      "percent": 95,
+      "maxRp": 0,
+      "expiresAt": null,
+      "uses": 0,
+      "maxUses": null,
+      "note": null,
+      "updatedAt": "2025-12-20T10:03:58.994Z"
     }
   },
   "promo": {
