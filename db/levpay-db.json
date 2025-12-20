@@ -1,0 +1,31 @@
+{
+  "vouchers": {
+    "KINGLEV": {
+      "code": "KINGLEV",
+      "name": "KINGLEV 60%",
+      "enabled": true,
+      "percent": 60,
+      "maxRp": 0,
+      "expiresAt": null,
+      "uses": 0,
+      "maxUses": null,
+      "note": null,
+      "updatedAt": "2025-12-20T09:50:06.675Z"
+    }
+  },
+  "promo": {
+    "monthly": {
+      "enabled": true,
+      "name": "PROMO BULANAN",
+      "percent": 5,
+      "maxRp": 2000,
+      "requireCode": false,
+      "code": "",
+      "used": {},
+      "reserved": {},
+      "unlimited": {},
+      "updatedAt": null
+    }
+  },
+  "tx": {}
+}
