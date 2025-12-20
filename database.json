@@ -3431,33 +3431,25 @@
       "idTransaksi": "LEVPAY-28301",
       "deviceKey": "b1432564f62112cb8a89680fca11fc184f6f8d5483badae55d26079d6ef77747",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 10000,
+      "amountOriginal": 500,
       "amountFinal": 500,
-      "discountRp": 9500,
-      "applied": [
-        {
-          "type": "voucher",
-          "code": "KEY",
-          "name": "KEY",
-          "percent": 95,
-          "maxRp": 0,
-          "expiresAt": null
-        }
-      ],
-      "reservations": [
-        {
-          "type": "voucher",
-          "code": "KEY",
-          "token": "a41b6384473e3fe918a4",
-          "expiresAt": "2025-12-20T12:02:38.086Z",
-          "discountRp": 9500
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-20T11:56:38.478Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "reference": "REF1766231798393-50430",
+      "lastUpdateAt": "2025-12-20T12:01:38.771Z",
+      "updatedAt": "2025-12-20T12:01:38.771Z"
     },
     "LEVPAY-23904": {
       "idTransaksi": "LEVPAY-23904",
