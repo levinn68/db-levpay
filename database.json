@@ -3505,10 +3505,19 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-20T12:23:47.696Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "reference": "REF1766233427613-49946",
+      "lastUpdateAt": "2025-12-20T12:28:47.935Z",
+      "updatedAt": "2025-12-20T12:28:47.935Z"
     },
     "LEVPAY-90320": {
       "idTransaksi": "LEVPAY-90320",
