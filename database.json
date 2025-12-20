@@ -72,9 +72,7 @@
       "note": "Diskon VIP (contoh)",
       "updatedAt": "2025-12-20T11:30:34.703Z",
       "reserved": {
-        "e22a3f96f377cf0b35ab": "2025-12-20T11:16:13.517Z",
-        "f6aed139e70f1ebce390": "2025-12-20T11:16:26.686Z",
-        "19ed20e8a01225ba174c": "2025-12-20T11:16:49.547Z"
+        "f609b86631b07882df01": "2025-12-20T11:37:25.775Z"
       }
     }
   },
@@ -3307,6 +3305,38 @@
       "reference": "REF1766229049861-75022",
       "lastUpdateAt": "2025-12-20T11:10:58.225Z",
       "updatedAt": "2025-12-20T11:10:58.225Z"
+    },
+    "LEVPAY-24504": {
+      "idTransaksi": "LEVPAY-24504",
+      "deviceKey": "8b073a9b687141f8b682a911aa9a8d408fe5f8f60e30a4a9ecf08bb0c3b90db5",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 10000,
+      "amountFinal": 4000,
+      "discountRp": 6000,
+      "applied": [
+        {
+          "type": "voucher",
+          "code": "VIPL",
+          "name": "VIP LEVEL",
+          "percent": 60,
+          "maxRp": 0,
+          "expiresAt": null
+        }
+      ],
+      "reservations": [
+        {
+          "type": "voucher",
+          "code": "VIPL",
+          "token": "f609b86631b07882df01",
+          "expiresAt": "2025-12-20T11:37:25.775Z",
+          "discountRp": 6000
+        }
+      ],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-20T11:31:26.219Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
