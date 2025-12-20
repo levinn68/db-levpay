@@ -3529,10 +3529,19 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-20T12:24:36.764Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "reference": "REF1766233476655-68849",
+      "lastUpdateAt": "2025-12-20T12:29:36.860Z",
+      "updatedAt": "2025-12-20T12:29:36.860Z"
     }
   },
   "txByDevice": {
