@@ -70,10 +70,7 @@
       "uses": 0,
       "maxUses": null,
       "note": "Diskon VIP (contoh)",
-      "updatedAt": "2025-12-20T11:30:34.703Z",
-      "reserved": {
-        "f609b86631b07882df01": "2025-12-20T11:37:25.775Z"
-      }
+      "updatedAt": "2025-12-20T11:30:34.703Z"
     },
     "KING666": {
       "code": "KING666",
@@ -3341,6 +3338,21 @@
       "reference": "REF1766230286121-98484",
       "lastUpdateAt": "2025-12-20T11:36:27.180Z",
       "updatedAt": "2025-12-20T11:36:27.180Z"
+    },
+    "LEVPAY-14608": {
+      "idTransaksi": "LEVPAY-14608",
+      "deviceKey": "1c129662d6562c11eaabe7aa6da40f7ffb337a7df4edbb27a575b236e7e14fe5",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 10000,
+      "amountFinal": 10000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-20T11:42:03.593Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
