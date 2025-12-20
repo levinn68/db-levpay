@@ -48,7 +48,8 @@
       "note": "voucher custom 60%",
       "updatedAt": "2025-12-19T13:59:50.410Z",
       "reserved": {
-        "608a2c78b53ef8a361be": "2025-12-20T06:16:16.488Z"
+        "608a2c78b53ef8a361be": "2025-12-20T06:16:16.488Z",
+        "86221ac2c2d47453d443": "2025-12-20T06:16:46.558Z"
       }
     },
     "TEST": {
@@ -2861,6 +2862,38 @@
       "reference": "REF1766211016659-37163",
       "lastUpdateAt": "2025-12-20T06:10:42.868Z",
       "updatedAt": "2025-12-20T06:10:42.869Z"
+    },
+    "LEVPAY-69541": {
+      "idTransaksi": "LEVPAY-69541",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 5000,
+      "amountFinal": 2000,
+      "discountRp": 3000,
+      "applied": [
+        {
+          "type": "voucher",
+          "code": "KINGLEV",
+          "name": "KINGLEV 60%",
+          "percent": 60,
+          "maxRp": 0,
+          "expiresAt": "2026-12-31T23:59:59.000Z"
+        }
+      ],
+      "reservations": [
+        {
+          "type": "voucher",
+          "code": "KINGLEV",
+          "token": "86221ac2c2d47453d443",
+          "expiresAt": "2025-12-20T06:16:46.558Z",
+          "discountRp": 3000
+        }
+      ],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-20T06:10:46.817Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
