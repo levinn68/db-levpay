@@ -32,15 +32,15 @@
   "promo": {
     "monthly": {
       "enabled": true,
-      "name": "MONTHLY VIP",
-      "percent": 15,
-      "maxRp": 7000,
+      "name": "LEVPAYVIP",
+      "percent": 5,
+      "maxRp": 1500,
       "requireCode": true,
       "code": "MONTHLYVIP",
       "used": {},
       "reserved": {},
       "unlimited": {},
-      "updatedAt": "2025-12-20T09:51:07.030Z"
+      "updatedAt": "2025-12-20T10:21:48.373Z"
     }
   },
   "tx": {}
