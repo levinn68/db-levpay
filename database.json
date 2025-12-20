@@ -46,10 +46,7 @@
       "uses": 0,
       "maxUses": 100,
       "note": "voucher custom 60%",
-      "updatedAt": "2025-12-19T13:59:50.410Z",
-      "reserved": {
-        "aa4c7da9d486ba38740c": "2025-12-20T07:19:11.389Z"
-      }
+      "updatedAt": "2025-12-19T13:59:50.410Z"
     },
     "TEST": {
       "code": "TEST",
@@ -3053,6 +3050,21 @@
       "reference": "REF1766214891853-81757",
       "lastUpdateAt": "2025-12-20T07:15:03.566Z",
       "updatedAt": "2025-12-20T07:15:03.566Z"
+    },
+    "LEVPAY-31558": {
+      "idTransaksi": "LEVPAY-31558",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 5000,
+      "amountFinal": 5000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-20T07:27:46.614Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
