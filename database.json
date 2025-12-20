@@ -2797,33 +2797,25 @@
       "idTransaksi": "LEVPAY-63235",
       "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 5000,
+      "amountOriginal": 4500,
       "amountFinal": 4500,
-      "discountRp": 500,
-      "applied": [
-        {
-          "type": "voucher",
-          "code": "HEMAT10",
-          "name": "HEMAT 10%",
-          "percent": 10,
-          "maxRp": 5000,
-          "expiresAt": "2026-12-31T23:59:59.000Z"
-        }
-      ],
-      "reservations": [
-        {
-          "type": "voucher",
-          "code": "HEMAT10",
-          "token": "e2aed66cbc769ea7d4b4",
-          "expiresAt": "2025-12-20T05:59:49.157Z",
-          "discountRp": 500
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-20T05:53:49.410Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "voucher": null,
+      "reference": "REF1766210029327-40410",
+      "lastUpdateAt": "2025-12-20T05:53:59.696Z",
+      "updatedAt": "2025-12-20T05:53:59.696Z"
     }
   },
   "txByDevice": {
