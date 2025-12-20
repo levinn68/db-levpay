@@ -3310,33 +3310,25 @@
       "idTransaksi": "LEVPAY-24504",
       "deviceKey": "8b073a9b687141f8b682a911aa9a8d408fe5f8f60e30a4a9ecf08bb0c3b90db5",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 10000,
+      "amountOriginal": 4000,
       "amountFinal": 4000,
-      "discountRp": 6000,
-      "applied": [
-        {
-          "type": "voucher",
-          "code": "VIPL",
-          "name": "VIP LEVEL",
-          "percent": 60,
-          "maxRp": 0,
-          "expiresAt": null
-        }
-      ],
-      "reservations": [
-        {
-          "type": "voucher",
-          "code": "VIPL",
-          "token": "f609b86631b07882df01",
-          "expiresAt": "2025-12-20T11:37:25.775Z",
-          "discountRp": 6000
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-20T11:31:26.219Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "reference": "REF1766230286121-98484",
+      "lastUpdateAt": "2025-12-20T11:36:27.180Z",
+      "updatedAt": "2025-12-20T11:36:27.180Z"
     }
   },
   "txByDevice": {
