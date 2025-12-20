@@ -14,15 +14,15 @@
     },
     "VIPL": {
       "code": "VIPL",
-      "name": "TEST",
+      "name": "VIPL",
       "enabled": true,
-      "percent": 95,
+      "percent": 60,
       "maxRp": 0,
       "expiresAt": null,
       "uses": 0,
       "maxUses": null,
-      "note": null,
-      "updatedAt": "2025-12-20T10:04:29.067Z",
+      "note": "Quick create",
+      "updatedAt": "2025-12-20T10:19:57.302Z",
       "reserved": {
         "0ff669e3aafb2404f7d1": "2025-12-20T10:11:55.900Z",
         "af228ab86b2c6e43156f": "2025-12-20T10:14:52.979Z"
