@@ -82,10 +82,7 @@
       "uses": 0,
       "maxUses": 1,
       "note": null,
-      "updatedAt": "2025-12-20T11:41:02.817Z",
-      "reserved": {
-        "ef1bad369e69d32e1bae": "2025-12-20T11:48:15.155Z"
-      }
+      "updatedAt": "2025-12-20T11:41:02.817Z"
     },
     "KEY": {
       "code": "KEY",
@@ -3401,6 +3398,21 @@
       "reference": "REF1766230935485-94990",
       "lastUpdateAt": "2025-12-20T11:47:15.944Z",
       "updatedAt": "2025-12-20T11:47:15.944Z"
+    },
+    "LEVPAY-46051": {
+      "idTransaksi": "LEVPAY-46051",
+      "deviceKey": "b1432564f62112cb8a89680fca11fc184f6f8d5483badae55d26079d6ef77747",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 10000,
+      "amountFinal": 10000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-20T11:56:31.045Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
