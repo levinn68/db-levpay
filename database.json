@@ -74,6 +74,18 @@
       "reserved": {
         "f609b86631b07882df01": "2025-12-20T11:37:25.775Z"
       }
+    },
+    "KING666": {
+      "code": "KING666",
+      "name": "KING TESTER",
+      "enabled": true,
+      "percent": 66,
+      "maxRp": 0,
+      "expiresAt": null,
+      "uses": 0,
+      "maxUses": 1,
+      "note": null,
+      "updatedAt": "2025-12-20T11:41:02.817Z"
     }
   },
   "promo": {
