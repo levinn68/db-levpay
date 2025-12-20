@@ -92,11 +92,11 @@
     "monthly": {
       "enabled": true,
       "percent": 5,
-      "maxRp": 2000,
+      "maxRp": 1500,
       "used": {},
       "reserved": {},
-      "updatedAt": "2025-12-16T11:57:05.151Z",
-      "name": "LEVPAY VIP",
+      "updatedAt": "2025-12-20T11:43:25.051Z",
+      "name": "LEVPAYVIP",
       "unlimited": {
         "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true
       }
