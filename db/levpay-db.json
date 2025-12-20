@@ -10,7 +10,10 @@
       "uses": 0,
       "maxUses": null,
       "note": null,
-      "updatedAt": "2025-12-20T09:50:06.675Z"
+      "updatedAt": "2025-12-20T09:50:06.675Z",
+      "reserved": {
+        "fde846ca3d924f1103bd": "2025-12-20T09:56:17.139Z"
+      }
     }
   },
   "promo": {
@@ -22,7 +25,13 @@
       "requireCode": false,
       "code": "",
       "used": {},
-      "reserved": {},
+      "reserved": {
+        "9f9cf0c3f9f86221a2c1c2fd7678af33a6f2f8d8576702992933956ae22b5eb4": {
+          "token": "b8a7f8259f0683f2853d",
+          "month": "202512",
+          "expiresAt": "2025-12-20T09:56:17.139Z"
+        }
+      },
       "unlimited": {},
       "updatedAt": null
     }
