@@ -3413,10 +3413,19 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-20T11:56:31.045Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": null,
+      "reference": "REF1766231790960-81162",
+      "lastUpdateAt": "2025-12-20T12:01:31.950Z",
+      "updatedAt": "2025-12-20T12:01:31.950Z"
     },
     "LEVPAY-28301": {
       "idTransaksi": "LEVPAY-28301",
