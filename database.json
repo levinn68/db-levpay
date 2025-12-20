@@ -59,6 +59,18 @@
       "maxUses": 100,
       "note": "voucher custom 60%",
       "updatedAt": "2025-12-19T13:59:53.699Z"
+    },
+    "VIPL": {
+      "code": "VIPL",
+      "name": "VIP LEVEL",
+      "enabled": true,
+      "percent": 90,
+      "maxRp": 0,
+      "expiresAt": null,
+      "uses": 0,
+      "maxUses": null,
+      "note": "Diskon VIP (contoh)",
+      "updatedAt": "2025-12-20T11:09:53.309Z"
     }
   },
   "promo": {
