@@ -107,11 +107,9 @@
       "maxRp": 1500,
       "used": {},
       "reserved": {},
-      "updatedAt": "2025-12-20T11:43:25.051Z",
+      "updatedAt": "2025-12-21T05:48:52.752Z",
       "name": "LEVPAYVIP",
-      "unlimited": {
-        "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true
-      },
+      "unlimited": {},
       "usageByMonth": {}
     }
   },
