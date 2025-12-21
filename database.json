@@ -34,7 +34,10 @@
       "uses": 0,
       "maxUses": 5,
       "note": null,
-      "updatedAt": "2025-12-21T07:56:27.975Z"
+      "updatedAt": "2025-12-21T07:56:27.975Z",
+      "reserved": {
+        "ec2b2efecd491a7942f8": "2025-12-21T09:27:17.230Z"
+      }
     },
     "KINGLEV": {
       "code": "KINGLEV",
@@ -4248,6 +4251,38 @@
       "reference": "REF1766308806832-38374",
       "lastUpdateAt": "2025-12-21T09:21:11.223Z",
       "updatedAt": "2025-12-21T09:21:11.223Z"
+    },
+    "LEVPAY-49013": {
+      "idTransaksi": "LEVPAY-49013",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 3000,
+      "amountFinal": 150,
+      "discountRp": 2850,
+      "applied": [
+        {
+          "type": "voucher",
+          "code": "KING",
+          "name": "VIP BIG",
+          "percent": 95,
+          "maxRp": 100000,
+          "expiresAt": "2027-12-20T22:55:00.000Z"
+        }
+      ],
+      "reservations": [
+        {
+          "type": "voucher",
+          "code": "KING",
+          "token": "ec2b2efecd491a7942f8",
+          "expiresAt": "2025-12-21T09:27:17.230Z",
+          "discountRp": 2850
+        }
+      ],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-21T09:21:17.651Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
