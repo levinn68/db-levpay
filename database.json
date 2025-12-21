@@ -30,11 +30,11 @@
       "enabled": true,
       "percent": 95,
       "maxRp": 100000,
-      "expiresAt": "2026-12-20T22:55:00.000Z",
+      "expiresAt": "2027-12-20T22:55:00.000Z",
       "uses": 0,
       "maxUses": 1,
       "note": null,
-      "updatedAt": "2025-12-21T06:23:58.363Z",
+      "updatedAt": "2025-12-21T06:24:06.020Z",
       "reserved": {
         "1056a55c5c749776aa0b": "2025-12-21T06:02:26.977Z"
       }
