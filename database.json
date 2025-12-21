@@ -119,9 +119,11 @@
           "discountRp": 150
         }
       },
-      "updatedAt": "2025-12-21T07:01:05.477Z",
+      "updatedAt": "2025-12-21T07:01:08.169Z",
       "name": "LEVPAYVIP",
-      "unlimited": {},
+      "unlimited": {
+        "00a78262502c2a2b742c3b8805651e2cf02911070d6cb53ceb4a40823631b380": true
+      },
       "usageByMonth": {
         "202512": 1
       },
