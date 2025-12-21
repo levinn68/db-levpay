@@ -90,14 +90,14 @@
     "KEY": {
       "code": "KEY",
       "name": "KEY",
-      "enabled": true,
+      "enabled": false,
       "percent": 95,
       "maxRp": 0,
       "expiresAt": null,
       "uses": 0,
       "maxUses": null,
       "note": null,
-      "updatedAt": "2025-12-20T11:56:05.794Z"
+      "updatedAt": "2025-12-21T05:46:36.442Z"
     }
   },
   "promo": {
