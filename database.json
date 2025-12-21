@@ -105,24 +105,12 @@
       "used": {
         "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": "202512"
       },
-      "reserved": {
-        "a92de8b3302d626d196e30ea2d081f86ed152c25367e49fc545297f74a40d16b": {
-          "token": "122ffa932de9a430071e",
-          "month": "202512",
-          "expiresAt": "2025-12-21T06:36:23.928Z",
-          "discountRp": 500
-        },
-        "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": {
-          "token": "a18358ecb361dafc3e82",
-          "month": "202512",
-          "expiresAt": "2025-12-21T06:39:11.030Z",
-          "discountRp": 150
-        }
-      },
+      "reserved": {},
       "updatedAt": "2025-12-21T07:01:08.169Z",
       "name": "LEVPAYVIP",
       "unlimited": {
-        "00a78262502c2a2b742c3b8805651e2cf02911070d6cb53ceb4a40823631b380": true
+        "00a78262502c2a2b742c3b8805651e2cf02911070d6cb53ceb4a40823631b380": true,
+        "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true
       },
       "usageByMonth": {
         "202512": 1
@@ -4041,6 +4029,21 @@
       "reference": "REF1766298391236-91626",
       "lastUpdateAt": "2025-12-21T06:26:37.259Z",
       "updatedAt": "2025-12-21T06:26:37.259Z"
+    },
+    "LEVPAY-95514": {
+      "idTransaksi": "LEVPAY-95514",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 5000,
+      "amountFinal": 5000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-21T07:02:02.936Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
