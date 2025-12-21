@@ -3838,33 +3838,25 @@
       "idTransaksi": "LEVPAY-44615",
       "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
       "deviceIdMasked": "dev***",
-      "amountOriginal": 10000,
+      "amountOriginal": 3400,
       "amountFinal": 3400,
-      "discountRp": 6600,
-      "applied": [
-        {
-          "type": "voucher",
-          "code": "KING666",
-          "name": "KING TESTER",
-          "percent": 66,
-          "maxRp": 0,
-          "expiresAt": null
-        }
-      ],
-      "reservations": [
-        {
-          "type": "voucher",
-          "code": "KING666",
-          "token": "56b8af05d4798d3c1d9b",
-          "expiresAt": "2025-12-21T05:51:37.508Z",
-          "discountRp": 6600
-        }
-      ],
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-21T05:45:37.814Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "voucher": null,
+      "reference": "REF1766295937738-61901",
+      "lastUpdateAt": "2025-12-21T05:45:43.953Z",
+      "updatedAt": "2025-12-21T05:45:43.953Z"
     }
   },
   "txByDevice": {
