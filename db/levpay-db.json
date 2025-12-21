@@ -23,6 +23,18 @@
       "maxUses": 2,
       "note": "Quick create",
       "updatedAt": "2025-12-21T17:32:43.344Z"
+    },
+    "VIPS": {
+      "code": "VIPS",
+      "name": "VIPL",
+      "enabled": true,
+      "percent": 95,
+      "maxRp": 0,
+      "expiresAt": null,
+      "uses": 0,
+      "maxUses": 2,
+      "note": null,
+      "updatedAt": "2025-12-21T17:33:21.191Z"
     }
   },
   "promo": {
