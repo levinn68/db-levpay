@@ -22,11 +22,7 @@
       "uses": 0,
       "maxUses": null,
       "note": "Quick create",
-      "updatedAt": "2025-12-21T16:56:26.337Z",
-      "reserved": {
-        "0ff669e3aafb2404f7d1": "2025-12-20T10:11:55.900Z",
-        "af228ab86b2c6e43156f": "2025-12-20T10:14:52.979Z"
-      }
+      "updatedAt": "2025-12-21T16:56:26.337Z"
     }
   },
   "promo": {
@@ -38,7 +34,13 @@
       "requireCode": true,
       "code": "BUL",
       "used": {},
-      "reserved": {},
+      "reserved": {
+        "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": {
+          "token": "68112dcc2fda98167cfe",
+          "month": "202512",
+          "expiresAt": "2025-12-21T17:36:34.973Z"
+        }
+      },
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
       },
