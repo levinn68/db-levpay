@@ -106,7 +106,14 @@
         "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": "202512",
         "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": "202512"
       },
-      "reserved": {},
+      "reserved": {
+        "4aa7798eff1dafa8b015f9b1f14980e578a9683e5b882de591cf2bc7814e382e": {
+          "token": "4498c62d6ebea1d05063",
+          "month": "202512",
+          "expiresAt": "2025-12-21T07:55:15.914Z",
+          "discountRp": 300
+        }
+      },
       "updatedAt": "2025-12-21T07:48:51.074Z",
       "name": "LEVPAYVIP",
       "unlimited": {
