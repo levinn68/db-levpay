@@ -111,6 +111,12 @@
           "month": "202512",
           "expiresAt": "2025-12-21T06:36:23.928Z",
           "discountRp": 500
+        },
+        "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": {
+          "token": "a18358ecb361dafc3e82",
+          "month": "202512",
+          "expiresAt": "2025-12-21T06:39:11.030Z",
+          "discountRp": 150
         }
       },
       "updatedAt": "2025-12-21T06:31:59.626Z",
