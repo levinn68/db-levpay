@@ -75,14 +75,14 @@
     "KING666": {
       "code": "KING666",
       "name": "KING TESTER",
-      "enabled": true,
+      "enabled": false,
       "percent": 66,
       "maxRp": 0,
       "expiresAt": null,
       "uses": 0,
       "maxUses": 1,
       "note": null,
-      "updatedAt": "2025-12-20T11:41:02.817Z",
+      "updatedAt": "2025-12-21T05:46:30.175Z",
       "reserved": {
         "56b8af05d4798d3c1d9b": "2025-12-21T05:51:37.508Z"
       }
