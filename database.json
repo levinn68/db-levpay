@@ -100,14 +100,14 @@
   "promo": {
     "monthly": {
       "enabled": true,
-      "percent": 5,
+      "percent": 10,
       "maxRp": 1500,
       "used": {
         "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": "202512",
         "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": "202512"
       },
       "reserved": {},
-      "updatedAt": "2025-12-21T07:48:33.638Z",
+      "updatedAt": "2025-12-21T07:48:43.801Z",
       "name": "LEVPAYVIP",
       "unlimited": {
         "00a78262502c2a2b742c3b8805651e2cf02911070d6cb53ceb4a40823631b380": true,
@@ -117,7 +117,7 @@
       "usageByMonth": {
         "202512": 2
       },
-      "maxUses": 10
+      "maxUses": 15
     }
   },
   "tx": {
