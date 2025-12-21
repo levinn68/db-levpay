@@ -106,7 +106,14 @@
       "percent": 5,
       "maxRp": 1500,
       "used": {},
-      "reserved": {},
+      "reserved": {
+        "a92de8b3302d626d196e30ea2d081f86ed152c25367e49fc545297f74a40d16b": {
+          "token": "122ffa932de9a430071e",
+          "month": "202512",
+          "expiresAt": "2025-12-21T06:36:23.928Z",
+          "discountRp": 500
+        }
+      },
       "updatedAt": "2025-12-21T06:30:14.625Z",
       "name": "LEVPAYVIP",
       "unlimited": {
