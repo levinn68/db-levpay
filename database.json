@@ -107,11 +107,12 @@
         "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": "202512"
       },
       "reserved": {},
-      "updatedAt": "2025-12-21T07:03:31.339Z",
+      "updatedAt": "2025-12-21T07:41:43.129Z",
       "name": "LEVPAYVIP",
       "unlimited": {
         "00a78262502c2a2b742c3b8805651e2cf02911070d6cb53ceb4a40823631b380": true,
-        "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true
+        "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true,
+        "4aa7798eff1dafa8b015f9b1f14980e578a9683e5b882de591cf2bc7814e382e": true
       },
       "usageByMonth": {
         "202512": 2
