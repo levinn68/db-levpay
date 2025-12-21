@@ -63,14 +63,14 @@
     "VIPL": {
       "code": "VIPL",
       "name": "VIP LEVEL",
-      "enabled": true,
+      "enabled": false,
       "percent": 60,
       "maxRp": 0,
       "expiresAt": null,
       "uses": 0,
       "maxUses": null,
       "note": "Diskon VIP (contoh)",
-      "updatedAt": "2025-12-20T11:30:34.703Z"
+      "updatedAt": "2025-12-21T05:46:22.768Z"
     },
     "KING666": {
       "code": "KING666",
@@ -111,7 +111,8 @@
       "name": "LEVPAYVIP",
       "unlimited": {
         "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true
-      }
+      },
+      "usageByMonth": {}
     }
   },
   "tx": {
