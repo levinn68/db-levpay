@@ -4078,6 +4078,21 @@
       "reference": "REF1766300619549-74027",
       "lastUpdateAt": "2025-12-21T07:03:43.529Z",
       "updatedAt": "2025-12-21T07:03:43.529Z"
+    },
+    "LEVPAY-10547": {
+      "idTransaksi": "LEVPAY-10547",
+      "deviceKey": "89fd61904b9c7ee2297a9599126a7ec5da7e3cb373be63c1daea690b7bfc0917",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 5000,
+      "amountFinal": 5000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-21T07:05:35.063Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
