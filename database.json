@@ -102,19 +102,15 @@
       "enabled": true,
       "percent": 5,
       "maxRp": 1500,
-      "used": {},
+      "used": {
+        "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": "202512"
+      },
       "reserved": {
         "a92de8b3302d626d196e30ea2d081f86ed152c25367e49fc545297f74a40d16b": {
           "token": "122ffa932de9a430071e",
           "month": "202512",
           "expiresAt": "2025-12-21T06:36:23.928Z",
           "discountRp": 500
-        },
-        "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": {
-          "token": "0747f60e98a5282582e9",
-          "month": "202512",
-          "expiresAt": "2025-12-21T06:38:27.663Z",
-          "discountRp": 150
         }
       },
       "updatedAt": "2025-12-21T06:31:59.626Z",
@@ -122,7 +118,9 @@
       "unlimited": {
         "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true
       },
-      "usageByMonth": {},
+      "usageByMonth": {
+        "202512": 1
+      },
       "maxUses": 5
     }
   },
