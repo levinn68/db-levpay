@@ -26,15 +26,15 @@
     },
     "KING": {
       "code": "KING",
-      "name": "KING",
-      "enabled": false,
-      "percent": 10,
-      "maxRp": 5000,
-      "expiresAt": null,
+      "name": "VIP BIG",
+      "enabled": true,
+      "percent": 95,
+      "maxRp": 10000,
+      "expiresAt": "2026-12-21T05:55:00.000Z",
       "uses": 0,
-      "maxUses": null,
+      "maxUses": 1,
       "note": null,
-      "updatedAt": "2025-12-21T05:46:33.967Z"
+      "updatedAt": "2025-12-21T05:55:59.530Z"
     },
     "KINGLEV": {
       "code": "KINGLEV",
