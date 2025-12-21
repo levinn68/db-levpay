@@ -106,13 +106,7 @@
         "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": "202512",
         "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": "202512"
       },
-      "reserved": {
-        "d67dd15b0d59d49c895bd0634b0bd729ceb49ca6f4535e5f8881d227bec81b32": {
-          "token": "cc5eabda6684a94bccc0",
-          "month": "202512",
-          "expiresAt": "2025-12-21T15:08:36.881Z"
-        }
-      },
+      "reserved": {},
       "updatedAt": "2025-12-21T09:20:41.573Z",
       "name": "LEVPAYVIP",
       "unlimited": {
@@ -4397,10 +4391,11 @@
         }
       ],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-21T15:02:37.229Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "updatedAt": "2025-12-21T15:02:47.318Z"
     }
   },
   "txByDevice": {
