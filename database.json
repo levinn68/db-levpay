@@ -4402,7 +4402,15 @@
       "createdAt": "2025-12-21T16:54:50.316Z",
       "paidAt": null,
       "paidVia": null,
-      "updatedAt": "2025-12-21T16:54:57.592Z"
+      "updatedAt": "2025-12-21T16:54:58.051Z",
+      "deviceId": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "voucher": null,
+      "reference": "REF1766336090225-54973",
+      "lastUpdateAt": "2025-12-21T16:54:58.050Z"
     }
   },
   "txByDevice": {
