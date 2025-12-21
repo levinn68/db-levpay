@@ -103,16 +103,10 @@
       "percent": 5,
       "maxRp": 1500,
       "used": {
-        "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": "202512"
+        "918a2bc44a9b8535f48ac656de71a32460d722ecaa18fab4bfb7bcf07b76a8fc": "202512",
+        "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": "202512"
       },
-      "reserved": {
-        "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": {
-          "token": "63cd296daf3e4ce0501d",
-          "month": "202512",
-          "expiresAt": "2025-12-21T07:11:07.841Z",
-          "discountRp": 150
-        }
-      },
+      "reserved": {},
       "updatedAt": "2025-12-21T07:03:31.339Z",
       "name": "LEVPAYVIP",
       "unlimited": {
@@ -120,7 +114,7 @@
         "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true
       },
       "usageByMonth": {
-        "202512": 1
+        "202512": 2
       },
       "maxUses": 5
     }
