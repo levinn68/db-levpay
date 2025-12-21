@@ -4478,10 +4478,11 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-21T17:33:46.943Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "updatedAt": "2025-12-21T17:33:50.596Z"
     }
   },
   "txByDevice": {
