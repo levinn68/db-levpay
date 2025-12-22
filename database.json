@@ -4499,6 +4499,26 @@
       "paidAt": null,
       "paidVia": null,
       "updatedAt": "2025-12-21T17:35:14.210Z"
+    },
+    "LEVPAY-08212": {
+      "idTransaksi": "LEVPAY-08212",
+      "deviceId": "dev1",
+      "status": "expired",
+      "paidAt": null,
+      "paidVia": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "amountOriginal": 5000,
+      "amountFinal": 5000,
+      "discountRp": 0,
+      "voucher": null,
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1766406467182-08576",
+      "lastUpdateAt": "2025-12-22T12:32:48.217Z",
+      "updatedAt": "2025-12-22T12:32:48.217Z"
     }
   },
   "txByDevice": {
@@ -4506,6 +4526,9 @@
       "LEVPAY-78234",
       "LEVPAY-70740",
       "LEVPAY-49508"
+    ],
+    "dev1": [
+      "LEVPAY-08212"
     ]
   }
 }
