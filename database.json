@@ -4710,11 +4710,20 @@
       "createdAt": "2025-12-22T14:56:20.867Z",
       "paidAt": null,
       "paidVia": null,
-      "updatedAt": "2025-12-22T14:56:27.360Z"
+      "updatedAt": "2025-12-22T14:56:27.869Z",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "voucher": "2030",
+      "reference": "REF1766415380767-34504",
+      "lastUpdateAt": "2025-12-22T14:56:27.869Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-59936",
       "LEVPAY-00551",
       "LEVPAY-90539",
       "LEVPAY-78234",
