@@ -10,7 +10,10 @@
       "uses": 0,
       "maxUses": 5,
       "note": null,
-      "updatedAt": "2025-12-21T17:34:41.552Z"
+      "updatedAt": "2025-12-21T17:34:41.552Z",
+      "reserved": {
+        "1dba8a81de4f55acb111": "2025-12-22T06:04:59.067Z"
+      }
     },
     "KINGLEV": {
       "code": "KINGLEV",
@@ -58,18 +61,7 @@
       "requireCode": true,
       "code": "BUL",
       "used": {},
-      "reserved": {
-        "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": {
-          "token": "68112dcc2fda98167cfe",
-          "month": "202512",
-          "expiresAt": "2025-12-21T17:36:34.973Z"
-        },
-        "df9017b258252ab9afc8ff6c6363f1a7a7180e3f633fa1ec88d2897b7dd81a1e": {
-          "token": "a925e4121065cc983ef3",
-          "month": "202512",
-          "expiresAt": "2025-12-21T17:36:42.700Z"
-        }
-      },
+      "reserved": {},
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
       },
