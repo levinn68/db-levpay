@@ -4682,14 +4682,24 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2025-12-22T14:39:04.591Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "voucher": "BUL",
+      "reference": "REF1766414344519-02156",
+      "lastUpdateAt": "2025-12-22T14:44:05.467Z",
+      "updatedAt": "2025-12-22T14:44:05.467Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-00551",
       "LEVPAY-90539",
       "LEVPAY-78234",
       "LEVPAY-70740",
