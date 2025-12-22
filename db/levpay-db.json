@@ -10,14 +10,7 @@
       "uses": 0,
       "maxUses": 5,
       "note": null,
-      "updatedAt": "2025-12-22T12:50:36.118Z",
-      "reserved": {
-        "1dba8a81de4f55acb111": "2025-12-22T06:04:59.067Z",
-        "af64c41df2a2bdc2b79b": "2025-12-22T06:05:05.099Z",
-        "62b3930beb9562d9da1d": "2025-12-22T06:05:07.161Z",
-        "8647197a0c4428436c38": "2025-12-22T06:05:07.937Z",
-        "d448a072a17a7cd3f9ac": "2025-12-22T06:05:18.954Z"
-      }
+      "updatedAt": "2025-12-22T12:50:36.118Z"
     },
     "2030": {
       "code": "2030",
@@ -77,7 +70,13 @@
       "requireCode": true,
       "code": "BUL",
       "used": {},
-      "reserved": {},
+      "reserved": {
+        "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": {
+          "token": "a20dca0b2353f366e3f6",
+          "month": "202512",
+          "expiresAt": "2025-12-22T14:45:35.529Z"
+        }
+      },
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
       },
