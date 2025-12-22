@@ -4639,6 +4639,21 @@
       "voucher": "LEVPAY VIP",
       "reference": "REF1766410236718-16742",
       "lastUpdateAt": "2025-12-22T13:31:01.221Z"
+    },
+    "LEVPAY-05498": {
+      "idTransaksi": "LEVPAY-05498",
+      "deviceKey": "d67dd15b0d59d49c895bd0634b0bd729ceb49ca6f4535e5f8881d227bec81b32",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 3000,
+      "amountFinal": 3000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-22T14:38:11.532Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
