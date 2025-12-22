@@ -4602,10 +4602,11 @@
       "applied": [],
       "reservations": [],
       "discountCommitted": false,
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-22T12:51:14.639Z",
       "paidAt": null,
-      "paidVia": null
+      "paidVia": null,
+      "updatedAt": "2025-12-22T12:51:18.737Z"
     }
   },
   "txByDevice": {
