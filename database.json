@@ -4607,6 +4607,21 @@
       "paidAt": null,
       "paidVia": null,
       "updatedAt": "2025-12-22T12:51:18.737Z"
+    },
+    "LEVPAY-90539": {
+      "idTransaksi": "LEVPAY-90539",
+      "deviceKey": "d67dd15b0d59d49c895bd0634b0bd729ceb49ca6f4535e5f8881d227bec81b32",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 5000,
+      "amountFinal": 5000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-22T13:30:36.819Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
