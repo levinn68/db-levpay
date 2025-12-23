@@ -15,14 +15,14 @@
     "2030": {
       "code": "2030",
       "name": "NEWYEAR",
-      "enabled": true,
+      "enabled": false,
       "percent": 99,
       "maxRp": 0,
       "expiresAt": "2026-12-21T17:34:00.000Z",
       "uses": 0,
       "maxUses": null,
       "note": null,
-      "updatedAt": "2025-12-22T14:55:43.585Z"
+      "updatedAt": "2025-12-23T07:30:12.645Z"
     },
     "KINGLEV": {
       "code": "KINGLEV",
@@ -80,7 +80,13 @@
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
       },
-      "updatedAt": "2025-12-22T14:57:05.635Z"
+      "updatedAt": "2025-12-22T14:57:05.635Z",
+      "maxUses": null,
+      "unlimitedEnabled": true,
+      "usedDevice": {},
+      "reservedDevice": {},
+      "usedGlobal": {},
+      "reservedTokens": {}
     }
   },
   "tx": {}
