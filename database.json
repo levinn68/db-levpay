@@ -4802,6 +4802,26 @@
       "paidAt": null,
       "paidVia": null,
       "updatedAt": "2025-12-23T09:08:16.859Z"
+    },
+    "LEVPAY-28149": {
+      "idTransaksi": "LEVPAY-28149",
+      "deviceId": null,
+      "status": "expired",
+      "paidAt": null,
+      "paidVia": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "amountOriginal": 2850,
+      "amountFinal": 2850,
+      "discountRp": 0,
+      "voucher": null,
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1766482970184-06557",
+      "lastUpdateAt": "2025-12-23T09:47:51.188Z",
+      "updatedAt": "2025-12-23T09:47:51.188Z"
     }
   },
   "txByDevice": {
