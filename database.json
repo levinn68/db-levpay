@@ -119,7 +119,11 @@
       "discountType": "percent",
       "discountValue": 0,
       "perDeviceLimit": 0
-    }
+    },
+    "unlimitedDevices": {
+      "46ccb9cb2a7b74cb1d70361f607d1590cb0c59f745ab394ab5878ea029a34937": true
+    },
+    "updatedAt": "2025-12-23T09:41:00.996Z"
   },
   "tx": {
     "LEVPAY-19727": {
