@@ -84,7 +84,7 @@
   },
   "promo": {
     "monthly": {
-      "enabled": true,
+      "enabled": false,
       "name": "LEVPAYVIP",
       "percent": 10,
       "maxRp": 1500,
@@ -102,7 +102,7 @@
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true,
         "d67dd15b0d59d49c895bd0634b0bd729ceb49ca6f4535e5f8881d227bec81b32": true
       },
-      "updatedAt": "2025-12-23T10:56:50.579Z",
+      "updatedAt": "2025-12-23T11:23:17.268Z",
       "maxUses": null,
       "unlimitedEnabled": true,
       "usedDevice": {},
