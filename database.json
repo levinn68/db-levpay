@@ -4773,11 +4773,20 @@
       "createdAt": "2025-12-23T09:06:39.118Z",
       "paidAt": null,
       "paidVia": null,
-      "updatedAt": "2025-12-23T09:06:46.210Z"
+      "updatedAt": "2025-12-23T09:06:46.704Z",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "voucher": "KLZ",
+      "reference": "REF1766480799019-49182",
+      "lastUpdateAt": "2025-12-23T09:06:46.704Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-85306",
       "LEVPAY-82983",
       "LEVPAY-59936",
       "LEVPAY-00551",
