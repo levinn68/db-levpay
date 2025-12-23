@@ -107,7 +107,7 @@
         "5cea414e764acea281680d77c2a09b9409b5b13e2c43b5476c1218d3542856d7": "202512"
       },
       "reserved": {},
-      "updatedAt": "2025-12-21T09:20:41.573Z",
+      "updatedAt": "2025-12-23T09:42:22.555Z",
       "name": "LEVPAYVIP",
       "unlimited": [],
       "usageByMonth": {
@@ -115,7 +115,7 @@
       },
       "maxUses": 15,
       "usedCount": {},
-      "code": "",
+      "code": "2025",
       "discountType": "percent",
       "discountValue": 0,
       "perDeviceLimit": 0
