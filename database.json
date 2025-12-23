@@ -38,15 +38,15 @@
     },
     "KINGLEV": {
       "code": "KINGLEV",
-      "name": "KINGLEV 60%",
-      "enabled": false,
-      "percent": 60,
-      "maxRp": 0,
-      "expiresAt": "2026-12-31T23:59:59.000Z",
+      "name": "VIP",
+      "enabled": true,
+      "percent": 99,
+      "maxRp": 100000,
+      "expiresAt": "2027-12-20T22:55:00.000Z",
       "uses": 0,
-      "maxUses": 100,
+      "maxUses": 5,
       "note": "voucher custom 60%",
-      "updatedAt": "2025-12-21T05:46:28.233Z"
+      "updatedAt": "2025-12-23T09:41:47.852Z"
     },
     "TEST": {
       "code": "TEST",
