@@ -109,17 +109,16 @@
       "reserved": {},
       "updatedAt": "2025-12-21T09:20:41.573Z",
       "name": "LEVPAYVIP",
-      "unlimited": {
-        "00a78262502c2a2b742c3b8805651e2cf02911070d6cb53ceb4a40823631b380": true,
-        "16e2ded7e826d92de785c205451d79c3e608da005f4bf7f8097e360c134f3e54": true,
-        "4aa7798eff1dafa8b015f9b1f14980e578a9683e5b882de591cf2bc7814e382e": true,
-        "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
-      },
+      "unlimited": [],
       "usageByMonth": {
         "202512": 2
       },
       "maxUses": 15,
-      "usedCount": {}
+      "usedCount": {},
+      "code": "",
+      "discountType": "percent",
+      "discountValue": 0,
+      "perDeviceLimit": 0
     }
   },
   "tx": {
@@ -4719,6 +4718,21 @@
       "voucher": "2030",
       "reference": "REF1766415380767-34504",
       "lastUpdateAt": "2025-12-22T14:56:27.869Z"
+    },
+    "LEVPAY-82983": {
+      "idTransaksi": "LEVPAY-82983",
+      "deviceKey": "d67dd15b0d59d49c895bd0634b0bd729ceb49ca6f4535e5f8881d227bec81b32",
+      "deviceIdMasked": "dev***",
+      "amountOriginal": 3000,
+      "amountFinal": 3000,
+      "discountRp": 0,
+      "applied": [],
+      "reservations": [],
+      "discountCommitted": false,
+      "status": "pending",
+      "createdAt": "2025-12-23T07:31:47.546Z",
+      "paidAt": null,
+      "paidVia": null
     }
   },
   "txByDevice": {
@@ -4735,5 +4749,6 @@
       "LEVPAY-42543",
       "LEVPAY-08212"
     ]
-  }
+  },
+  "_reservations": {}
 }
