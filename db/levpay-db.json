@@ -10,7 +10,10 @@
       "uses": 0,
       "maxUses": 5,
       "note": null,
-      "updatedAt": "2025-12-23T07:33:42.878Z"
+      "updatedAt": "2025-12-23T07:33:42.878Z",
+      "perDeviceMonth": true,
+      "usedByDevice": {},
+      "reserved": {}
     },
     "2030": {
       "code": "2030",
@@ -22,7 +25,10 @@
       "uses": 0,
       "maxUses": null,
       "note": null,
-      "updatedAt": "2025-12-23T07:30:12.645Z"
+      "updatedAt": "2025-12-23T07:30:12.645Z",
+      "perDeviceMonth": true,
+      "usedByDevice": {},
+      "reserved": {}
     },
     "KINGLEV": {
       "code": "KINGLEV",
@@ -34,7 +40,10 @@
       "uses": 0,
       "maxUses": null,
       "note": null,
-      "updatedAt": "2025-12-20T10:19:36.310Z"
+      "updatedAt": "2025-12-20T10:19:36.310Z",
+      "perDeviceMonth": true,
+      "usedByDevice": {},
+      "reserved": {}
     },
     "VIPL": {
       "code": "VIPL",
@@ -46,7 +55,10 @@
       "uses": 0,
       "maxUses": 2,
       "note": "Quick create",
-      "updatedAt": "2025-12-23T07:32:16.338Z"
+      "updatedAt": "2025-12-23T07:32:16.338Z",
+      "perDeviceMonth": true,
+      "usedByDevice": {},
+      "reserved": {}
     },
     "VIPS": {
       "code": "VIPS",
@@ -58,7 +70,10 @@
       "uses": 0,
       "maxUses": 2,
       "note": null,
-      "updatedAt": "2025-12-23T07:32:18.841Z"
+      "updatedAt": "2025-12-23T07:32:18.841Z",
+      "perDeviceMonth": true,
+      "usedByDevice": {},
+      "reserved": {}
     }
   },
   "promo": {
@@ -70,17 +85,11 @@
       "requireCode": true,
       "code": "KLZ",
       "used": {},
-      "reserved": {
-        "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": {
-          "token": "1b9ca5520289cfbeb6ea",
-          "month": "202512",
-          "expiresAt": "2025-12-22T15:03:27.042Z"
-        }
-      },
+      "reserved": {},
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
       },
-      "updatedAt": "2025-12-23T07:31:27.261Z",
+      "updatedAt": "2025-12-23T09:06:07.443Z",
       "maxUses": null,
       "unlimitedEnabled": true,
       "usedDevice": {},
@@ -89,5 +98,11 @@
       "reservedTokens": {}
     }
   },
-  "tx": {}
+  "tx": {},
+  "system": {
+    "unlimitedEnabled": true,
+    "unlimitedKeys": {
+      "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
+    }
+  }
 }
