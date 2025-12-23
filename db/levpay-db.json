@@ -65,10 +65,10 @@
     "monthly": {
       "enabled": true,
       "name": "LEVPAYVIP",
-      "percent": 5,
+      "percent": 10,
       "maxRp": 1500,
       "requireCode": true,
-      "code": "BUL",
+      "code": "KLZ",
       "used": {},
       "reserved": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": {
@@ -80,7 +80,7 @@
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true
       },
-      "updatedAt": "2025-12-22T14:57:05.635Z",
+      "updatedAt": "2025-12-23T07:31:27.261Z",
       "maxUses": null,
       "unlimitedEnabled": true,
       "usedDevice": {},
