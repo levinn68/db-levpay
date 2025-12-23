@@ -3,14 +3,14 @@
     "2026": {
       "code": "2026",
       "name": "NEWYEAR",
-      "enabled": false,
+      "enabled": true,
       "percent": 99,
       "maxRp": 0,
       "expiresAt": "2026-12-21T17:34:00.000Z",
       "uses": 0,
       "maxUses": 5,
       "note": null,
-      "updatedAt": "2025-12-23T07:32:31.937Z"
+      "updatedAt": "2025-12-23T07:33:42.878Z"
     },
     "2030": {
       "code": "2030",
