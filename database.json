@@ -4933,10 +4933,42 @@
       "reference": "REF1766502202721-97091",
       "lastUpdateAt": "2025-12-23T15:08:23.532Z",
       "updatedAt": "2025-12-23T15:08:23.532Z"
+    },
+    "LEVPAY-48682": {
+      "idTransaksi": "LEVPAY-48682",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "status": "cancelled",
+      "paidAt": null,
+      "paidVia": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "amountOriginal": 3000,
+      "amountFinal": 30,
+      "discountRp": 2970,
+      "voucher": "NEWYEAR",
+      "promo": null,
+      "applied": [
+        {
+          "type": "voucher",
+          "code": "2026",
+          "name": "NEWYEAR",
+          "percent": 99,
+          "maxRp": 0,
+          "expiresAt": "2030-12-21T17:34:00.000Z",
+          "unlimitedApplied": true
+        }
+      ],
+      "reservations": [],
+      "reference": "REF1766505165265-78820",
+      "lastUpdateAt": "2025-12-23T15:53:09.037Z",
+      "updatedAt": "2025-12-23T15:53:09.037Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-48682",
       "LEVPAY-10341",
       "LEVPAY-03797",
       "LEVPAY-78755",
