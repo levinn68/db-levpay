@@ -4862,10 +4862,31 @@
       "reference": "REF1766491259443-21906",
       "lastUpdateAt": "2025-12-23T12:01:02.681Z",
       "updatedAt": "2025-12-23T12:01:02.681Z"
+    },
+    "LEVPAY-78755": {
+      "idTransaksi": "LEVPAY-78755",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "status": "cancelled",
+      "paidAt": null,
+      "paidVia": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "amountOriginal": 3000,
+      "amountFinal": 3000,
+      "discountRp": 0,
+      "voucher": "KLZ",
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1766498693096-23815",
+      "lastUpdateAt": "2025-12-23T14:05:24.113Z",
+      "updatedAt": "2025-12-23T14:05:24.113Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-78755",
       "LEVPAY-16200",
       "LEVPAY-10639",
       "LEVPAY-85306",
