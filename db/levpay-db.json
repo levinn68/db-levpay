@@ -13,7 +13,9 @@
       "note": null,
       "updatedAt": "2025-12-23T09:08:01.596Z",
       "usedByDevice": {},
-      "reserved": {}
+      "reserved": {
+        "a0b7b862179252377d91": "2025-12-23T09:14:36.897Z"
+      }
     },
     "2030": {
       "code": "2030",
