@@ -12,14 +12,7 @@
       "maxUses": 5,
       "note": null,
       "updatedAt": "2025-12-23T09:08:01.596Z",
-      "usedByDevice": {},
-      "reserved": {
-        "a0b7b862179252377d91": "2025-12-23T09:14:36.897Z",
-        "a7d20ca5d7e32c2ef502": "2025-12-23T09:14:47.909Z",
-        "140d2b79165b294e5201": "2025-12-23T09:14:49.583Z",
-        "590394987d394066d6f9": "2025-12-23T09:14:50.229Z",
-        "b971e111836ce9e01fca": "2025-12-23T09:14:56.743Z"
-      }
+      "usedByDevice": {}
     },
     "2030": {
       "code": "2030",
@@ -33,8 +26,7 @@
       "note": null,
       "updatedAt": "2025-12-23T07:30:12.645Z",
       "perDeviceMonth": true,
-      "usedByDevice": {},
-      "reserved": {}
+      "usedByDevice": {}
     },
     "KINGLEV": {
       "code": "KINGLEV",
@@ -48,8 +40,7 @@
       "note": null,
       "updatedAt": "2025-12-20T10:19:36.310Z",
       "perDeviceMonth": true,
-      "usedByDevice": {},
-      "reserved": {}
+      "usedByDevice": {}
     },
     "VIPL": {
       "code": "VIPL",
@@ -63,8 +54,7 @@
       "note": "Quick create",
       "updatedAt": "2025-12-23T07:32:16.338Z",
       "perDeviceMonth": true,
-      "usedByDevice": {},
-      "reserved": {}
+      "usedByDevice": {}
     },
     "VIPS": {
       "code": "VIPS",
@@ -78,8 +68,7 @@
       "note": null,
       "updatedAt": "2025-12-23T07:32:18.841Z",
       "perDeviceMonth": true,
-      "usedByDevice": {},
-      "reserved": {}
+      "usedByDevice": {}
     }
   },
   "promo": {
@@ -91,13 +80,7 @@
       "requireCode": true,
       "code": "KLZ",
       "used": {},
-      "reserved": {
-        "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": {
-          "token": "ae4c95f752555719dfde",
-          "month": "202512",
-          "expiresAt": "2025-12-23T09:15:09.335Z"
-        }
-      },
+      "reserved": {},
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true,
         "d67dd15b0d59d49c895bd0634b0bd729ceb49ca6f4535e5f8881d227bec81b32": true
