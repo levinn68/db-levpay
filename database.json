@@ -5163,10 +5163,33 @@
       "mutasiRef": null,
       "lastUpdateAt": "2025-12-23T17:50:08.577Z",
       "updatedAt": "2025-12-23T17:50:08.577Z"
+    },
+    "LEVPAY-09849": {
+      "idTransaksi": "LEVPAY-09849",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "status": "cancelled",
+      "paidAt": null,
+      "paidVia": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "amountOriginal": 3,
+      "amountFinal": 3,
+      "discountRp": 0,
+      "discountCodeInput": null,
+      "voucher": null,
+      "promo": null,
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1766551268601-62664",
+      "lastUpdateAt": "2025-12-24T04:41:30.043Z",
+      "updatedAt": "2025-12-24T04:41:30.043Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-09849",
       "LEVPAY-25238",
       "LEVPAY-80505",
       "LEVPAY-53435",
