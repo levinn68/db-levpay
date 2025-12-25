@@ -5869,10 +5869,32 @@
       "reference": "REF1766663178178-53204",
       "lastUpdateAt": "2025-12-25T11:46:22.058Z",
       "updatedAt": "2025-12-25T11:46:22.058Z"
+    },
+    "LEVPAY-42372": {
+      "idTransaksi": "LEVPAY-42372",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "status": "expired",
+      "paidAt": null,
+      "paidVia": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "auto-expired",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "voucher": null,
+      "promo": null,
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1766663437547-62052",
+      "lastUpdateAt": "2025-12-25T11:55:38.302Z",
+      "updatedAt": "2025-12-25T11:55:38.302Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-42372",
       "LEVPAY-99838",
       "LEVPAY-80208",
       "LEVPAY-77051",
