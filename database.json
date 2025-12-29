@@ -6174,10 +6174,43 @@
       "reference": "REF1766987619788-16125",
       "lastUpdateAt": "2025-12-29T05:54:17.417Z",
       "updatedAt": "2025-12-29T05:54:17.417Z"
+    },
+    "LEVPAY-06803": {
+      "idTransaksi": "LEVPAY-06803",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "status": "cancelled",
+      "paidAt": null,
+      "paidVia": null,
+      "payerName": null,
+      "buyerRef": null,
+      "brandName": null,
+      "note": "cancelled",
+      "amountOriginal": 3000,
+      "amountFinal": 2700,
+      "discountRp": 300,
+      "discountCodeInput": "202",
+      "voucher": null,
+      "promo": "202",
+      "applied": [
+        {
+          "type": "monthly",
+          "name": "LEVPAYVIP",
+          "percent": 10,
+          "maxRp": 1500,
+          "code": "202",
+          "requireCode": true,
+          "unlimitedApplied": true
+        }
+      ],
+      "reservations": [],
+      "reference": "REF1766987845534-79619",
+      "lastUpdateAt": "2025-12-29T06:00:11.664Z",
+      "updatedAt": "2025-12-29T06:00:11.665Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-06803",
       "LEVPAY-70895",
       "LEVPAY-18680",
       "LEVPAY-17882",
