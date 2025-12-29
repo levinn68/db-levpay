@@ -6392,10 +6392,33 @@
       "reference": "REF1767011468943-38853",
       "lastUpdateAt": "2025-12-29T12:32:01.258Z",
       "updatedAt": "2025-12-29T12:32:01.258Z"
+    },
+    "LEVPAY-55390": {
+      "idTransaksi": "LEVPAY-55390",
+      "deviceId": "dev_5a816e29352778_19b17b3bd88",
+      "status": "paid",
+      "paidAt": "2025-12-29T13:14:55.921Z",
+      "paidVia": "DANA",
+      "payerName": "NOBU / MA*******",
+      "buyerRef": "NOBU / MA*******",
+      "brandName": "DANA",
+      "note": "auto-detected(tick)",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "discountCodeInput": null,
+      "voucher": null,
+      "promo": null,
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1767014018076-73880",
+      "lastUpdateAt": "2025-12-29T13:14:56.763Z",
+      "updatedAt": "2025-12-29T13:14:56.763Z"
     }
   },
   "txByDevice": {
     "dev_5a816e29352778_19b17b3bd88": [
+      "LEVPAY-55390",
       "LEVPAY-21530",
       "LEVPAY-85776",
       "LEVPAY-95067",
