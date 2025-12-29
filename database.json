@@ -6480,6 +6480,28 @@
       "reference": "REF1767018702204-37382",
       "lastUpdateAt": "2025-12-29T14:32:34.242Z",
       "updatedAt": "2025-12-29T14:32:34.242Z"
+    },
+    "LEVPAY-34027": {
+      "idTransaksi": "LEVPAY-34027",
+      "deviceId": "dev_5e4b62114f95d_19b6a8ff215",
+      "status": "paid",
+      "paidAt": "2025-12-29T14:44:33.536Z",
+      "paidVia": "GOPAY",
+      "payerName": "NOBU / GOPAY",
+      "buyerRef": "NOBU / GOPAY",
+      "brandName": "GOPAY",
+      "note": "auto-detected(status)",
+      "amountOriginal": 1,
+      "amountFinal": 1,
+      "discountRp": 0,
+      "discountCodeInput": null,
+      "voucher": null,
+      "promo": null,
+      "applied": [],
+      "reservations": [],
+      "reference": "REF1767019388918-60457",
+      "lastUpdateAt": "2025-12-29T14:44:34.305Z",
+      "updatedAt": "2025-12-29T14:44:34.305Z"
     }
   },
   "txByDevice": {
@@ -6571,6 +6593,9 @@
     ],
     "dev_test": [
       "LEVPAY-85612"
+    ],
+    "dev_5e4b62114f95d_19b6a8ff215": [
+      "LEVPAY-34027"
     ]
   },
   "_reservations": {}
