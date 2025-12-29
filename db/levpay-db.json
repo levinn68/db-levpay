@@ -81,7 +81,13 @@
       "requireCode": true,
       "code": "202",
       "used": {},
-      "reserved": {},
+      "reserved": {
+        "4d8784a3b0a8f651cb1e0e29918e369997351752c7ed7840f51151fcc44352d1": {
+          "token": "4387b9146d4b8fae4a9a",
+          "month": "202512",
+          "expiresAt": "2025-12-29T14:53:31.144Z"
+        }
+      },
       "unlimited": {
         "3cba807b27e933940fed9994073973ec2496ab2a2a9c70a1fff11d94b8081805": true,
         "d67dd15b0d59d49c895bd0634b0bd729ceb49ca6f4535e5f8881d227bec81b32": true
