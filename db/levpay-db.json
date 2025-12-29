@@ -10,7 +10,10 @@
       "uses": 0,
       "maxUses": 5,
       "note": null,
-      "updatedAt": "2025-12-23T14:05:31.413Z"
+      "updatedAt": "2025-12-23T14:05:31.413Z",
+      "reserved": {
+        "eafcb526b5fcd1b3eadd": "2025-12-29T14:53:11.434Z"
+      }
     },
     "2030": {
       "code": "2030",
